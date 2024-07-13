@@ -36,7 +36,7 @@ The system uses the MovieLens dataset, specifically the latest version with rati
 
 Project Structure
 
-![Screens![Screenshot 2024-07-13 104513](https://github.com/user-attachments/assets/f168f1fd-0cd3-4f9e-a93e-c803b50fd871)
+![WhatsApp Image 2024-07-13 at 11 21 31 AM](https://github.com/user-attachments/assets/8dcfb782-9e6e-4dd5-b726-a433fd6bbba8)
 
 
 Screenshot 
