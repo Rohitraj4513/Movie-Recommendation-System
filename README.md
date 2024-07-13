@@ -34,4 +34,12 @@ Dataset
 
 The system uses the MovieLens dataset, specifically the latest version with ratings and movie metadata. This dataset contains movie ratings from users and information about movies (genres, release year, etc.).
 
-Files Structure
+Project Structure
+
+![Screens![Screenshot 2024-07-13 104513](https://github.com/user-attachments/assets/f168f1fd-0cd3-4f9e-a93e-c803b50fd871)
+
+
+Screenshot 
+
+![Screenshot 2024-07-13 104513](https://github.com/user-attachments/assets/1420aac0-f074-4cfe-ad53-36f11527f660)
+
